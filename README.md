@@ -1,2 +1,0 @@
-# medclub
-Teste da MedClub
